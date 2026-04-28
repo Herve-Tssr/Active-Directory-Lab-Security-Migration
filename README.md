@@ -18,6 +18,13 @@ Objectif : analyser, sécuriser et faire évoluer un contrôleur de domaine.
 
 ---
 
+## 📄 Documentation
+
+- 📑 [Compte rendu d’audit Active Directory](documents/01-Audit.pdf)  
+- 🛠️ [Préparation à la migration](documents/02-preparation_migration.pdf)
+
+---
+
 ## 🎯 Objectifs
 
 - Mettre en place un environnement Active Directory  
