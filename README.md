@@ -48,6 +48,8 @@ Objectif : analyser, sécuriser et faire évoluer un contrôleur de domaine.
 
 > **Domain Risk Level : 100 / 100**
 
+![PingCastle Score](captures/PingCastle.png)
+
 Analyse réalisée avec PingCastle en mode privilégié.
 
 ### Principales vulnérabilités :
@@ -57,8 +59,6 @@ Analyse réalisée avec PingCastle en mode privilégié.
 - 🔥 Print Spooler actif sur le DC  
 - ⚠️ LLMNR activé  
 - ⚠️ Absence de LAPS  
-
-👉 Détail : `/01-Audit`
 
 ---
 
