@@ -16,7 +16,7 @@ Infrastructure Active Directory multi-sites déployée sous VMware, avec deux do
 
 | Composant | Rôle |
 |-----------|------|
-| Windows Server 2022 | Contrôleurs de domaine (x2) |
+| Windows Server 2016/2019 | Contrôleurs de domaine (x2) |
 | Active Directory DS | Annuaire, authentification Kerberos |
 | DNS (intégré AD) | Résolution de noms inter-domaines |
 | pfSense | Routage inter-sites + pare-feu |
